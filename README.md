@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-**gkdud1210/gkdud1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hi there, I'm Hayoung Choi 👋
+# I'm Hayoung Choi (Lydia Choi) 👋
 
 ⚡ About Me
 🏥 Medical Background: Graduated with a Master's degree from Bogomolets National Medical University.

@@ -3,10 +3,10 @@
 # I'm Hayoung Choi (Lydia Choi) 👋
 
 ⚡ About Me
-🏥 Medical Background: Graduated with a Master's degree from Bogomolets National Medical University.
+- 🏥 Medical Background: Graduated with a Master's degree from Bogomolets National Medical University in Kyiv.
 
-🌍 International Education: Completed coursework at Taras Shevchenko National University of Kyiv.
+- 🌍 International Education: Completed coursework at Taras Shevchenko National University of Kyiv.
 
-🚀 AI Transition: Currently specializing in Artificial Intelligence at Woosong University AI Center.
+- 🚀 AI Transition: Currently specializing in Artificial Intelligence at Woosong University AI Center.
 
-📫 How to reach me: [Your Email or LinkedIn Link]
+- 📫 How to reach me: [Your Email or LinkedIn Link]

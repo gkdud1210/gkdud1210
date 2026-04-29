@@ -9,4 +9,4 @@
 
 - 🚀 AI Transition: Currently specializing in Artificial Intelligence at Woosong University AI Center.
 
-- 📫 How to reach me: [Your Email or LinkedIn Link]
+- 📫 How to reach me: [gkdud1210@gmail.com]

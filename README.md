@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Hayoung Choi (Lydia Choi) 👋
+## I'm Hayoung Choi (Lydia Choi)
 
 ⚡ About Me
 - 🏥 Medical Background: Graduated with a Master's degree from Bogomolets National Medical University in Kyiv.

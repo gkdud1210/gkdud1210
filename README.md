@@ -12,6 +12,7 @@
 - 📫 How to reach me: [gkdud1210@gmail.com]
 
 
+##내가 하고 있는 프로젝트
 
 1. 티처블머신을 이용한 사물인식 https://github.com/gkdud1210/ObjectDetectionWithTM
 2. 티처블머신을 이용한 사물인식 결과에 따라서 휴머노이드 로봇 컨트롤 https://github.com/gkdud1210/robotControlWithTM

@@ -10,3 +10,6 @@
 - 🚀 AI Transition: Currently studying in Artificial Intelligence at Woosong University AI Center.
 
 - 📫 How to reach me: [gkdud1210@gmail.com]
+
+
+1. 티처블머신을 이용한 사물인식 https://github.com/gkdud1210/ObjectDetectionWithTM

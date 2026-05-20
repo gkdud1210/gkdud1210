@@ -5,7 +5,7 @@
 ⚡ About Me
 - 🏥 Medical Background: Graduated with a Master's degree from Bogomolets National Medical University in Kyiv.
 
-- 🌍 International Education: Completed preparatory course in Russian language at Taras Shevchenko National University of Kyiv.
+- 🌍 International Education: Completed pre-med course in Russian language at Taras Shevchenko National University of Kyiv.
 
 - 🚀 AI Transition: Currently studying in Artificial Intelligence at Woosong University AI Center.
 

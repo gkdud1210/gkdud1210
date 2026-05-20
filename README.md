@@ -20,5 +20,6 @@
    2.1 I was able to create a model of the serial port selection and robot control parts used here.
 3. 80 Object Recognitions Using **YOLOv5** https://github.com/gkdud1210/yolov5ReadTime   
    3.1 I easily completed the program using the module created above.   
-   3.2 Making the app into a web app is an individual assignment.
-4. **YOLOv5 + Robot** https://github.com/gkdud1210/202605_001-YoloV5WithRobot
+   3.2 https://github.com/gkdud1210/yolov5ReadTime_webapp1 
+4. **YOLOv5 + Robot** https://github.com/gkdud1210/202605_001-YoloV5WithRobot   
+   4.1 https://github.com/gkdud1210/yolo_robot_webapp

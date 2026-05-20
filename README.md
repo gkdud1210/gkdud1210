@@ -13,7 +13,7 @@
    
 
   
-## 내가 하고 있는 사물인식 프로젝트 ; 최종적으로 로봇을 컨트롤. 
+## My current object recognition project; ultimately, controlling a robot.
 
 1. Object recognition using **Teachable Machine** https://github.com/gkdud1210/ObjectDetectionWithTM
 2. Humanoid robot control based on object recognition results using **Teachable Machine** https://github.com/gkdud1210/robotControlWithTM   
